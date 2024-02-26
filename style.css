@@ -12,3 +12,6 @@ body{
     width: 100px;
     margin-left: 125px;
 }
+.music audio{
+    width: 200px;
+}
