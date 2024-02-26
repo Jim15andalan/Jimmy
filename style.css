@@ -1,8 +1,10 @@
 .title{
   background-color: blue;
+  color:white;
 }
 .container{
   background-color: blue;
+  color:white;
 }
 body{
   background-color: blue;
@@ -14,4 +16,8 @@ body{
 }
 .music audio{
     width: 200px;
+}
+.time p{
+    text-align: center;
+    color: white;
 }
